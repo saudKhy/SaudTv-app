@@ -6,3 +6,6 @@
 https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk
 
 **كود Downloader:** `3562155`
+
+**نسخة الآيفون:** https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.ipa
+(ملف بدون توقيع — يتركّب عن طريق Sideloadly أو AltStore أو eSign)

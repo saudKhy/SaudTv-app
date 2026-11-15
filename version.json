@@ -1,9 +1,9 @@
 {
- "version": "2.1.4",
- "code": 20104,
+ "version": "2.1.5",
+ "code": 20105,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "علامة التشغيل في الشعار صارت ذهبية",
-  "en": "A gold play mark in the logo"
+  "ar": "تسجيل دخول أثبت مع السيرفرات اللي ترد بأخطاء عشوائية",
+  "en": "Steadier sign-in"
  }
 }
