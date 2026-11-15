@@ -1,9 +1,9 @@
 {
- "version": "2.2.2",
- "code": 20202,
+ "version": "2.2.3",
+ "code": 20203,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "الآيفون: واجهة جديدة وتشغيل باللمس وزر Chromecast",
-  "en": "iPhone: new layout, touch player and a Chromecast button"
+  "ar": "الآيفون: تنزيل للمشاهدة بدون إنترنت، متابعة المشاهدة مثل نتفلكس، وقوائم المباشر",
+  "en": "iPhone: offline downloads, Netflix-style Continue Watching, live lists"
  }
 }
