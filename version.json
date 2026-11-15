@@ -1,9 +1,9 @@
 {
- "version": "2.1.9",
- "code": 20109,
+ "version": "2.2.0",
+ "code": 20200,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "الإعدادات: «حول التطبيق» يبان كامل على التلفزيون",
-  "en": "Settings: About now shows in full on the TV"
+  "ar": "الرياضة: الدوريات الخمس الكبرى ودوري أبطال أوروبا + واجهة جديدة للآيفون",
+  "en": "Sports: big five leagues and the Champions League + a new iPhone layout"
  }
 }
