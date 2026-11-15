@@ -1,9 +1,9 @@
 {
- "version": "2.1.7",
- "code": 20107,
+ "version": "2.1.8",
+ "code": 20108,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "اللون الذهبي في كل التطبيق",
-  "en": "Gold across the app"
+  "ar": "صور للملفات الشخصية، وقفل لكل ملف برمز",
+  "en": "Profile pictures and a PIN lock for each profile"
  }
 }
