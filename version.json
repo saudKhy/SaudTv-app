@@ -1,9 +1,9 @@
 {
- "version": "2.2.0",
- "code": 20200,
+ "version": "2.2.1",
+ "code": 20201,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "الرياضة: الدوريات الخمس الكبرى ودوري أبطال أوروبا + واجهة جديدة للآيفون",
-  "en": "Sports: big five leagues and the Champions League + a new iPhone layout"
+  "ar": "الآيفون: المقدمة صارت بالطول",
+  "en": "iPhone: the intro is upright now"
  }
 }
