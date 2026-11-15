@@ -1,9 +1,9 @@
 {
- "version": "2.1.2",
- "code": 20102,
+ "version": "2.1.3",
+ "code": 20103,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "شاشة الدخول بدون علامة التشغيل في البداية",
-  "en": "The intro no longer flashes a play icon"
+  "ar": "اسم SaudTv في كل مكان",
+  "en": "The name SaudTv everywhere"
  }
 }
