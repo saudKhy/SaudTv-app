@@ -1,9 +1,9 @@
 {
- "version": "2.1.6",
- "code": 20106,
+ "version": "2.1.7",
+ "code": 20107,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "أيقونة جديدة سودا، ودخولية أنظف",
-  "en": "A new black icon and a cleaner intro"
+  "ar": "اللون الذهبي في كل التطبيق",
+  "en": "Gold across the app"
  }
 }
