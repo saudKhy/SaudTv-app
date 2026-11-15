@@ -1,9 +1,9 @@
 {
- "version": "2.1.8",
- "code": 20108,
+ "version": "2.1.9",
+ "code": 20109,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "صور للملفات الشخصية، وقفل لكل ملف برمز",
-  "en": "Profile pictures and a PIN lock for each profile"
+  "ar": "الإعدادات: «حول التطبيق» يبان كامل على التلفزيون",
+  "en": "Settings: About now shows in full on the TV"
  }
 }
