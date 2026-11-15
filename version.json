@@ -1,9 +1,9 @@
 {
- "version": "2.2.1",
- "code": 20201,
+ "version": "2.2.2",
+ "code": 20202,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "الآيفون: المقدمة صارت بالطول",
-  "en": "iPhone: the intro is upright now"
+  "ar": "الآيفون: واجهة جديدة وتشغيل باللمس وزر Chromecast",
+  "en": "iPhone: new layout, touch player and a Chromecast button"
  }
 }
