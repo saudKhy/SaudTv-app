@@ -1,9 +1,9 @@
 {
- "version": "2.1.5",
- "code": 20105,
+ "version": "2.1.6",
+ "code": 20106,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "تسجيل دخول أثبت مع السيرفرات اللي ترد بأخطاء عشوائية",
-  "en": "Steadier sign-in"
+  "ar": "أيقونة جديدة سودا، ودخولية أنظف",
+  "en": "A new black icon and a cleaner intro"
  }
 }
