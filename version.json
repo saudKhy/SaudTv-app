@@ -1,9 +1,9 @@
 {
- "version": "2.2.3",
- "code": 20203,
+ "version": "2.3.2",
+ "code": 20302,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "الآيفون: تنزيل للمشاهدة بدون إنترنت، متابعة المشاهدة مثل نتفلكس، وقوائم المباشر",
-  "en": "iPhone: offline downloads, Netflix-style Continue Watching, live lists"
+  "ar": "التلفزيون: أزرار وأنواع زجاجية مثل نتفلكس، خلفية جديدة، صفحة صورة الملف مثل نتفلكس، وبوسترات أصغر شوي",
+  "en": "TV: Netflix-style glass buttons and genre tiles, a new background, a Netflix-style profile picture picker, slightly smaller posters"
  }
 }
