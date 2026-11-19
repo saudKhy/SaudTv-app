@@ -1,9 +1,9 @@
 {
- "version": "2.3.5",
- "code": 20305,
+ "version": "2.3.6",
+ "code": 20306,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "تحديث مهم فيه تحسينات على الأداء والشكل، ننصح بتثبيته",
-  "en": "An important update with improvements to speed and looks — we recommend installing it"
+  "ar": "القنوات المباشرة تفتح بأعلى جودة متوفرة على السيرفر (1440 و1080)، ونسخ STC آخر شي، والقناة اللي ما تشتغل تتحول لنسخة ثانية تلقائيًا",
+  "en": "Live channels open in the best quality on the server (1440/1080), STC copies last, and a channel that doesn't play switches to another copy by itself"
  }
 }
