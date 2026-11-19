@@ -1,9 +1,9 @@
 {
- "version": "2.3.6",
- "code": 20306,
+ "version": "2.3.7",
+ "code": 20307,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "القنوات المباشرة تفتح بأعلى جودة متوفرة على السيرفر (1440 و1080)، ونسخ STC آخر شي، والقناة اللي ما تشتغل تتحول لنسخة ثانية تلقائيًا",
-  "en": "Live channels open in the best quality on the server (1440/1080), STC copies last, and a channel that doesn't play switches to another copy by itself"
+  "ar": "زر جديد «أفلام السينما»: الأفلام المعروضة الآن في السينما بالسعودية، واللي في اشتراكك تطلع أول",
+  "en": "New «Cinema films»: the films showing in Saudi cinemas now, the ones in your subscription first"
  }
 }
