@@ -1,9 +1,9 @@
 {
- "version": "2.3.7",
- "code": 20307,
+ "version": "2.3.8",
+ "code": 20308,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "زر جديد «أفلام السينما»: الأفلام المعروضة الآن في السينما بالسعودية، واللي في اشتراكك تطلع أول",
-  "en": "New «Cinema films»: the films showing in Saudi cinemas now, the ones in your subscription first"
+  "ar": "زر «الجودة» في القنوات المباشرة: تشوف جودة كل نسخة وتختار اللي يناسبك وتبقى للقناة — ◀ ▶ يفتح أزرار القناة",
+  "en": "«Quality» for live channels: see each copy's picture size and pick the one you like; it stays for the channel — ◀ ▶ opens the channel's buttons"
  }
 }
