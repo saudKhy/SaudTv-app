@@ -3,7 +3,7 @@
  "code": 20308,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "زر «الجودة» في القنوات المباشرة: تشوف جودة كل نسخة وتختار اللي يناسبك وتبقى للقناة — ◀ ▶ يفتح أزرار القناة",
-  "en": "«Quality» for live channels: see each copy's picture size and pick the one you like; it stays for the channel — ◀ ▶ opens the channel's buttons"
+  "ar": "• زر «الجودة» في القنوات المباشرة: يطلع لك جودة كل نسخة من القناة وتختار اللي يناسبك\n• الجودة اللي تختارها تبقى للقناة، والتطبيق ما عاد يغيّر النسخة من نفسه\n• وأنت على قناة: ◀ أو ▶ يفتح أزرار القناة (الجودة، معلومات البث…)",
+  "en": "• «Quality» for live channels: see each copy's picture size and pick the one that suits you\n• The quality you pick stays for the channel — no more automatic switching\n• On a channel: ◀ or ▶ brings up its buttons (Quality, stream info…)"
  }
 }
