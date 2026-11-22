@@ -1,9 +1,9 @@
 {
- "version": "2.4.0",
- "code": 20400,
+ "version": "2.4.1",
+ "code": 20401,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "• زر جديد في الإعدادات «الإصدارات»: كل إصدار من التطبيق وتاريخه، وتضغط على أي إصدار وتشوف مميزاته",
-  "en": "• New «Versions» in Settings: every version of the app with its date — pick one to see what it added"
+  "ar": "• اسم المطوّر صار Saud Al-Shammry وتحته Abo Lulwah 💛 (في المقدمة والإعدادات)\n• «الإصدارات» في الإعدادات تعرض آخر خمس إصدارات",
+  "en": "• The developer is now shown as Saud Al-Shammry, with Abo Lulwah 💛 under the name (intro and Settings)\n• «Versions» in Settings lists the last five versions"
  }
 }
