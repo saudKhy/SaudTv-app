@@ -1,9 +1,9 @@
 {
- "version": "2.3.9",
- "code": 20309,
+ "version": "2.4.0",
+ "code": 20400,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "• زر «تخطي المقدمة» يختفي من نفسه بعد 15 ثانية من بداية المسلسل أو الفيلم",
-  "en": "• The «Skip Intro» button now goes away by itself 15 seconds after a series or film starts"
+  "ar": "• زر جديد في الإعدادات «الإصدارات»: كل إصدار من التطبيق وتاريخه، وتضغط على أي إصدار وتشوف مميزاته",
+  "en": "• New «Versions» in Settings: every version of the app with its date — pick one to see what it added"
  }
 }
