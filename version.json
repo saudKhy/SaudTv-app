@@ -1,9 +1,9 @@
 {
- "version": "2.4.2",
- "code": 20402,
+ "version": "2.4.3",
+ "code": 20403,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "• تخطي المقدمة والملخص بالضبط لكل حلقة (IntroDB)، وتقدر تخليه تلقائي من الإعدادات\n• ترجمة من النت (عربي وإنجليزي) في «الصوت والترجمة» للأعمال اللي ما فيها ترجمة\n• ضبط توقيت الترجمة: أبكر أو أتأخر من «مظهر الترجمة»\n• تقييمات IMDb و Rotten Tomatoes و Metacritic و Trakt في صفحة الفيلم والمسلسل\n• 42 صورة للملف الشخصي: صفوف جديدة للحيوانات والشخصيات\n• ترتيب أقسام «مباشر» بالريموت: اضغط موافق مطوّل على القسم وحرّكه بالأسهم\n• البحث في «مباشر» يلقى الأقسام بعد، مو بس القنوات\n• التطبيق أخف (1.6 MB)، وانشال الـ VPN\n• إصلاح: عناوين الإعدادات ما تتداخل مع الخيارات، والحلقة من «متابعة المشاهدة» تلقى وقت المقدمة",
-  "en": "• Exact intro and recap skip for each episode (IntroDB), and it can skip by itself (Settings)\n• Subtitles from the internet (Arabic and English) in “Audio & Subtitles” for titles without them\n• Subtitle timing: earlier or later, in “Subtitle style”\n• IMDb, Rotten Tomatoes, Metacritic and Trakt ratings on a film or series page\n• 42 profile pictures: new rows of animals and characters\n• Reorder the “Live” categories with the remote: hold OK on a category and move it with the arrows\n• The “Live” search finds categories too, not only channels\n• A lighter app (1.6 MB), and the VPN is gone\n• Fixed: Settings titles no longer overlap the options; an episode from “Continue Watching” finds its intro times"
+  "ar": "• الآيفون: زر «الجودة» في المشغّل (تختار 4K أو 1080p أو نسخة ثانية)\n• الآيفون: زر «مظهر الترجمة» في المشغّل، ومعه ضبط توقيت الترجمة\n• الآيباد: واجهة اللمس مكبّرة على قد الشاشة بدل واجهة التلفزيون المصغّرة، وتلف مع الجهاز\n• جوالات وتابلت أندرويد: واجهة اللمس، واللمس صار يشتغل",
+  "en": "• iPhone: a “Quality” button in the player (pick 4K, 1080p or another copy)\n• iPhone: a “Subtitle style” button in the player, with subtitle timing\n• iPad: the touch layout, sized to the screen, instead of the shrunk TV layout; it turns with the device\n• Android phones and tablets: the touch layout, and touch now works"
  }
 }
