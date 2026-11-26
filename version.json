@@ -1,9 +1,9 @@
 {
- "version": "2.4.3",
- "code": 20403,
+ "version": "2.4.4",
+ "code": 20404,
  "apk": "https://github.com/saudKhy/SaudTv-app/releases/latest/download/SaudTv.apk",
  "notes": {
-  "ar": "• الآيفون: زر «الجودة» في المشغّل (تختار 4K أو 1080p أو نسخة ثانية)\n• الآيفون: زر «مظهر الترجمة» في المشغّل، ومعه ضبط توقيت الترجمة\n• الآيباد: واجهة اللمس مكبّرة على قد الشاشة بدل واجهة التلفزيون المصغّرة، وتلف مع الجهاز\n• جوالات وتابلت أندرويد: واجهة اللمس، واللمس صار يشتغل",
-  "en": "• iPhone: a “Quality” button in the player (pick 4K, 1080p or another copy)\n• iPhone: a “Subtitle style” button in the player, with subtitle timing\n• iPad: the touch layout, sized to the screen, instead of the shrunk TV layout; it turns with the device\n• Android phones and tablets: the touch layout, and touch now works"
+  "ar": "• الآيفون والآيباد: الترجمة تطلع على التلفزيون لما تسوي كاست (شغّل الترجمة قبل الكاست)",
+  "en": "• iPhone and iPad: subtitles now show on the TV when you cast (turn them on before casting)"
  }
 }
